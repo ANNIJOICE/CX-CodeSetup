@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "projects": {
+        "admin": {
+          "projectType": "application",
+          "root": "apps/admin"
+        },
+        "admin-e2e": {
+            "projectType": "application",
+            "root": "apps/admin-e2e"
+          },
+          "auth": {
+            "projectType": "application",
+            "root": "apps/auth"
+          },
+          "auth-e2e": {
+            "projectType": "application",
+            "root": "apps/auth-e2e"
+          }
+    }
+}
